@@ -30,6 +30,8 @@ duckduckgo-search = "*"
 langchain-experimental = "*"
 youtube-transcript-api = "*"
 pytube = "*"
+pymysql = "*"
+psycopg2 = "*"
 
 [dev-packages]
 ipykernel = "*"
