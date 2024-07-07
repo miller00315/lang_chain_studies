@@ -28,6 +28,8 @@ numexpr = "*"
 wikipedia = "*"
 duckduckgo-search = "*"
 langchain-experimental = "*"
+youtube-transcript-api = "*"
+pytube = "*"
 
 [dev-packages]
 ipykernel = "*"

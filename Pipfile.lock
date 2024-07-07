@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8352b719dc438704a383ebe7c792515352d0defb955badc19bf568db66568699"
+            "sha256": "4f3452d7f3e523e51e80afdc99f0b165afbc899b84f61fc0a922d76bd26c012f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -1919,7 +1919,7 @@
                 "sha256:6f62c13d067b0755ad1c21a34bdd06c0c12625a22b0fc09c6b149816604f7c2a",
                 "sha256:73ee9fddd406dc318b885c7a2eab8a6472b68b8fb5ba8150949fc3db939f23c8"
             ],
-            "markers": "python_full_version < '3.12.4'",
+            "markers": "python_version >= '3.8'",
             "version": "==2.8.2"
         },
         "pydantic-core": {
@@ -2151,6 +2151,15 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==0.0.9"
+        },
+        "pytube": {
+            "hashes": [
+                "sha256:076052efe76f390dfa24b1194ff821d4e86c17d41cb5562f3a276a8bcbfc9d1d",
+                "sha256:07b9904749e213485780d7eb606e5e5b8e4341aa4dccf699160876da00e12d78"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.7'",
+            "version": "==15.0.0"
         },
         "pytz": {
             "hashes": [
@@ -2803,7 +2812,7 @@
                 "sha256:04e5ca0351e0f3f85c6853954072df659d0d13fac324d0072316b67d7794700d",
                 "sha256:1a7ead55c7e559dd4dee8856e3a88b41225abfe1ce8df57b7c13915fe121ffb8"
             ],
-            "markers": "python_version >= '3.8'",
+            "markers": "python_version < '3.11'",
             "version": "==4.12.2"
         },
         "typing-inspect": {
@@ -3350,6 +3359,14 @@
             "markers": "python_version >= '3.7'",
             "version": "==1.9.4"
         },
+        "youtube-transcript-api": {
+            "hashes": [
+                "sha256:019dbf265c6a68a0591c513fff25ed5a116ce6525832aefdfb34d4df5567121c",
+                "sha256:cad223d7620633cec44f657646bffc8bbc5598bd8e70b1ad2fa8277dec305eb7"
+            ],
+            "index": "pypi",
+            "version": "==0.6.2"
+        },
         "zipp": {
             "hashes": [
                 "sha256:bf1dcf6450f873a13e952a29504887c89e6de7506209e5b1bcc3460135d4de19",
@@ -3758,7 +3775,7 @@
                 "sha256:04e5ca0351e0f3f85c6853954072df659d0d13fac324d0072316b67d7794700d",
                 "sha256:1a7ead55c7e559dd4dee8856e3a88b41225abfe1ce8df57b7c13915fe121ffb8"
             ],
-            "markers": "python_version >= '3.8'",
+            "markers": "python_version < '3.11'",
             "version": "==4.12.2"
         },
         "wcwidth": {
