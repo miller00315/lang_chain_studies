@@ -25,6 +25,9 @@ typing = "*"
 requests = "*"
 numexpr = "*"
 "langchain.tools" = "*"
+wikipedia = "*"
+duckduckgo-search = "*"
+langchain-experimental = "*"
 
 [dev-packages]
 ipykernel = "*"
