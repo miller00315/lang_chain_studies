@@ -2,6 +2,6 @@
 
 pipenv shell
 
-## Instalar dependÊncias
+## Instalar com pipenv
 
 pipenv install ...
